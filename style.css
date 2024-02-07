@@ -1,32 +1,64 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #7ec4c2;
+    background-color: #081b1a;
     color: #333;
     margin: 0;
     padding: 0;
+    height: 100%;
+    width:100%;
 }
-.navbar{
-    display:inline;
+a.a,a.b{
+    display:inline-block;
+    margin:10px;
+}
+.service-links{
+    margin-left:15%;
+    
+}
 
-}
-
-img {
-    display:inline;
-}
     
     
 
 h1{
     font-size: 4em;
     text-align: center;
+    text-shadow: 3px 4px 15px rgb(25, 25, 179);
+    color:rgb(205, 252, 255)
 }
 .subtitle{
 
     text-align: center;
+    text-shadow: 3px 4px 30px rgb(255, 153, 0);
+    color: coral;
 }
-.service-links{
+span{
+    font-size: 30px;
+    text-shadow: 5px 5px 30px rgb(69, 9, 223);
+    
+}
+.about{
+    margin-left: 45%;
+}
+.emoh{
+    font-size: 40px;
+    color:aqua;
+    text-shadow: 7px 7px 30px rgb(19, 36, 224);
+    
+}
+.home{
+    margin-left: 45%;
+}
+h2{
+    color:rgb(60, 11, 234)
+}
+h4{
+    font-size: 20px;
+}
+h4{
     display:inline-block;
+    margin:8px;
 }
+
 
 
 /* .title {
